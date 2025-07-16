@@ -1,6 +1,6 @@
 {
   "plugins": ["prettier-plugin-tailwindcss"],
-  "printWidth": 60,
+  "printWidth": 80,
   "proseWrap": "always",
   "htmlWhitespaceSensitivity": "ignore",
   "wrapAttributes": "auto"
